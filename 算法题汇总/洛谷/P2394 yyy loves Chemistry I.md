@@ -6,7 +6,7 @@ time: 2024-09-16 16:43
 aliases: 
 Description: 
 tags: 
-lastEdit: 2024-09-18-12:48
+lastEdit: 2024-09-24-23:41
 ---
 
 ```toc
@@ -22,11 +22,11 @@ max_depth: 3
 
 
 # 分类
-#语法题 
+#待分类 
 
 # 思路
 - 思路 1：
-
+强制提升精度
 
 ```cpp
 #include <stdio.h>
