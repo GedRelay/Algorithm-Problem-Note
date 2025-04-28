@@ -6,7 +6,7 @@ time: 2024-09-17 18:24
 aliases: 
 Description: 
 tags: 
-lastEdit: 2024-09-18-12:48
+lastEdit: 2025-04-11-14:17
 ---
 
 ```toc
@@ -26,7 +26,7 @@ max_depth: 3
 
 # 思路
 - 思路 1：
-
+贪心：优先选取价格更低的牛奶
 
 ```cpp
 #include<bits/stdc++.h>
